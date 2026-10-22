@@ -1,5 +1,7 @@
 # LLM Output Evaluator (Eval Harness)
 
+[![Diagram](https://img.shields.io/badge/gitdiagram-view%20architecture-blue)](https://gitdiagram.com/mehta-amit-codes/llm-output-evaluator)
+
 A Streamlit app for evaluating an LLM/RAG app against a golden Q&A dataset.
 
 ## Setup
